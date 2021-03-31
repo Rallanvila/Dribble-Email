@@ -18,3 +18,39 @@ body {
 		padding-top: 20px !important;
 	}
 }
+
+// First Section====
+.first-section {
+	& > table > tbody > tr > th > center {
+		padding-top: 25px;
+	}
+	span {
+		font-size: 16px !important;
+		font-weight: 600;
+		color: #ea4c89;
+	}
+	p {
+		color: #0d0c22;
+		padding-top: 25px;
+		padding-right: 10px !important;
+		padding-left: 10px !important;
+		line-height: 1.4;
+	}
+}
+.second-section {
+	padding-top: 20px;
+	img {
+		padding-top: 10px;
+	}
+	span {
+		text-align: center;
+	}
+	p {
+		color: #0d0c22;
+		padding-top: 25px;
+		padding-bottom: 25px;
+		padding-right: 10px !important;
+		padding-left: 10px !important;
+		line-height: 1.4;
+	}
+}

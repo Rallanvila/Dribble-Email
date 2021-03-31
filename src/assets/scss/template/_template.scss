@@ -54,3 +54,43 @@ body {
 		line-height: 1.4;
 	}
 }
+.third-section {
+	padding-top: 20px;
+	img {
+		padding-top: 10px;
+	}
+	span {
+		color: #ea4c89;
+	}
+	p {
+		color: #0d0c22;
+		padding-top: 25px;
+		padding-bottom: 25px;
+		padding-right: 10px !important;
+		padding-left: 10px !important;
+		line-height: 1.4;
+	}
+}
+.footer {
+	padding-top: 40px;
+	p {
+		text-align: center;
+		font-size: 13px;
+		color: #6e6d7a;
+	}
+	a {
+		font-size: 13px;
+		color: #6e6d7a;
+		text-decoration: underline;
+	}
+	img {
+		width: 50px;
+		padding-top: 5px;
+	}
+	span {
+		color: #ea4c89;
+	}
+	table.button.light-gray {
+		color: #0d0c22;
+	}
+}
